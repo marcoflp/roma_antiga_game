@@ -49,12 +49,12 @@ Estes são os objetos obrigatórios que o grupo deve construir do zero e apresen
 * **Casa 1 (Ludus):** Estrutura residencial com mais de 3 cômodos divididos, com duas aberturas de portas e texturização interna de papel de parede.
 * **Casa 2 (Casa Simples):** Estrutura menor com planta arquitetônica totalmente diferente da primeira.
 * **6 Objetos Adicionais da Época:**
-    1. * [ X ] *Gladius* (Espada curta romana)
-    2. * [ X ] *Scutum* (Escudo retangular romano)
-    3. * [ ] *Coluna/Pilar Romano* (Objeto que sofrerá a animação geométrica)
-    4. * [ ] *Baú de Madeira Antigo* (Para decorar o arsenal)
-    5. * [ ] *Mesa de Madeira Rústica* (Para a cozinha)
-    6. * [ ] *Banco ou Cadeira de Pedra* (Para a sala de estar)
+- [x] *Gladius* (Espada curta romana)
+- [x] *Scutum* (Escudo retangular romano)
+- [ ] *Coluna/Pilar Romano* (Objeto que sofrerá a animação geométrica)
+- [ ] *Baú de Madeira Antigo* (Para decorar o arsenal)
+- [ ] *Mesa de Madeira Rústica* (Para a cozinha)
+- [ ] *Banco ou Cadeira de Pedra* (Para a sala de estar)
 
 ### 2. Modelos Prontos (Importados da Internet)
 Modelos tridimensionais permitidos para complementar a composição dos cenários:
