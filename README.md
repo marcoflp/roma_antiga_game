@@ -51,8 +51,8 @@ Estes são os objetos obrigatórios que o grupo deve construir do zero e apresen
 * **6 Objetos Adicionais da Época:**
 - [x] *Gladius* (Espada curta romana)
 - [x] *Scutum* (Escudo retangular romano)
-- [ ] *Coluna/Pilar Romano* (Objeto que sofrerá a animação geométrica)
-- [ ] *Baú de Madeira Antigo* (Para decorar o arsenal)
+- [x] *Coluna/Pilar Romano* (Objeto que sofrerá a animação geométrica)
+- [x] *Baú de Madeira Antigo* (Para decorar o arsenal)
 - [ ] *Mesa de Madeira Rústica* (Para a cozinha)
 - [ ] *Banco ou Cadeira de Pedra* (Para a sala de estar)
 
